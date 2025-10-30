@@ -16,12 +16,12 @@ As a mechanical design intern at Futuredial, my work centered on structural opti
 Key activities included using OnShape to configure 3D printing parameters, fabricating gripper components, and assembling them from individual parts into functional units. I also redesigned the mounting bracket connecting the WSG-500 gripper to the UR5 arm—refining hole positions and load-bearing distributions to significantly enhance stability and durability.
 Notably, I addressed frequent jamming in original UMI parts caused by misaligned holes and subpar dimensional precision. By adjusting hole coordinates and diameters in the STEP files, I resolved the issue entirely, ensuring smooth operation. This improvement earned recognition from the team for my attention to mechanical design details, with praise for directly boosting the reliability of subsequent robotic operations.
 
-2. [**LeRobot Data Collection | Nupylot Inc.**](tech/lerobot.html)  
-As a mechanical design intern at Nupylot, my role focused on technical support for a robot competition environment, with core responsibilities leading quality assurance (QA) tasks.
+2. [**LeRobot Data Collection | NuPylot Inc.**](tech/lerobot.html)  
+As a mechanical design intern at NuPylot, my role focused on technical support for a robot competition environment, with core responsibilities leading quality assurance (QA) tasks.
 Key activities included 3D-printing components for the So-Arm101, ensuring part precision through meticulous calibration of printing parameters. I also troubleshot mechanical glitches—such as jamming and loose connections—to maintain consistent operation of the robotic arms. Beyond hardware, I contributed to validation of data collection efforts and expanded into AI applications: assisting with model training and running inference using transformer model to test the robots' performance.
 By maintaining hardware reliability and ensuring the end-to-end pipeline functioned as expected, my work played a key role in preventing technical disruptions, ultimately helping the GoSIM hackathon run seamlessly. This cross-disciplinary support earned positive feedback from the team, who highlighted its direct impact on the event's success
 
-3. [**ADORA Series Robot Design | Nupylot Inc.**](tech/adora.html)  
+3. [**ADORA Series Robot Design | NuPylot Inc.**](tech/adora.html)  
 I contributed to the mechanical design of the ADORA MAX, ADORA Pro, and ADORA nano robots. Notably, the ADORA nano—based on the HuggingFace LeRobot arm—is a mobile robot I independently designed and developed. This robot was deployed as a key platform for hosting the GoSIM hackathon, supporting the event's competitive challenges with its functional design
 
 

@@ -1,40 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-10-30T07:57:08-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Aimee Ding</title><subtitle>个人的一个技术博客站点，主要用于记录个人在学习过程中遇到的技术问题及解决方法、技术实验，以及一些比较有趣的事情。</subtitle><author><name>Aimee Ding</name></author><entry><title type="html">ADORA Series Robot Design</title><link href="http://localhost:4000/tech/adora.html" rel="alternate" type="text/html" title="ADORA Series Robot Design" /><published>2025-10-15T00:00:00-07:00</published><updated>2025-10-15T00:00:00-07:00</updated><id>http://localhost:4000/tech/adora</id><content type="html" xml:base="http://localhost:4000/tech/adora.html"><![CDATA[<h2 id="overview">Overview</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-10-30T10:46:47-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Aimee Ding</title><subtitle>个人的一个技术博客站点，主要用于记录个人在学习过程中遇到的技术问题及解决方法、技术实验，以及一些比较有趣的事情。</subtitle><author><name>Aimee Ding</name></author><entry><title type="html">ADORA Series Robot Design</title><link href="http://localhost:4000/tech/adora.html" rel="alternate" type="text/html" title="ADORA Series Robot Design" /><published>2025-10-15T00:00:00-07:00</published><updated>2025-10-15T00:00:00-07:00</updated><id>http://localhost:4000/tech/adora</id><content type="html" xml:base="http://localhost:4000/tech/adora.html"><![CDATA[<h2 id="overview">Overview</h2>
 
-<p>The ADORA series represents a family of mobile robots designed for competitive robotics environments. This project focused on mechanical design and development of three variants: ADORA MAX, ADORA Pro, and ADORA nano.</p>
+<p>The ADORA Robot represents a family of mobile robots that use the open-source Dora-rs software. As an intern, since 2024 I worked on mechanical design and development for three variants: ADORA MAX, ADORA Pro, and ADORA Nano.</p>
 
 <p><img src="/assets/img/adora_all.jpg" alt="" /></p>
 
+<h2 id="gosim-hackathon">GoSIM Hackathon</h2>
+
+<p>These robots were used in both GoSIM 2024 (Beijing) and GoSIM 2025 (Hangzhou) hackathons. The GOSIM 2025(Global Open-Source Innovation Meetup) conference in Hangzhou was held from September 13–14, 2025. I am proud to be part of the design and development of these robots that served as the competition platform for these prestigious events.</p>
+
+<p><img src="/assets/img/adora_gosim2.jpg" alt="ADORA GoSIM Setup" /></p>
+
+<p><img src="/assets/img/adora_gosim1.jpg" alt="ADORA at GoSIM 2025" /></p>
+
+<p><img src="/assets/img/adora_max_1.jpg" alt="ADORA MAX" /></p>
+
+<p>For the GoSIM 2024 hackathon in Beijing, I designed the mechanical parts for the Realman robot arm to mount on the 4-wheel base, creating the ADORA Pro platform.</p>
+
+<p><img src="/assets/img/adora_pro_1_2.jpg" alt="ADORA Pro Setup" /></p>
+
+<p><img src="/assets/img/adora_pro_1_1.jpg" alt="ADORA Pro - Realman Arm Mount" /></p>
+
+<p><img src="/assets/img/adora_pro_1_3.jpg" alt="ADORA Pro Detail" /></p>
+
 <h2 id="adora-nano">ADORA nano</h2>
 
-<p>The ADORA nano is a mobile robot based on the HuggingFace LeRobot arm platform. This robot was independently designed and developed to serve as a key platform for the GoSIM hackathon.</p>
+<p>ADORA Nano is a mobile robot built on the Hugging Face LeRobot arm platform. I independently designed and developed it to serve as a core platform for the GoSIM Hackathon.</p>
 
 <p><img src="/assets/img/adora_nano_1.jpg" alt="" /></p>
 
-<p><img src="/assets/img/adora_1.jpg" alt="" /></p>
-
-<p><img src="/assets/img/adora_1_2.jpg" alt="" /></p>
-
-<p><img src="/assets/img/adora_2.jpg" alt="" /></p>
-
-<p><img src="/assets/img/adora_3.jpg" alt="" /></p>
-
-<h2 id="adora-max">ADORA MAX</h2>
-
-<p><img src="/assets/img/adora_max_1.jpg" alt="" /></p>
-
 <h2 id="adora-pro">ADORA Pro</h2>
 
-<p>The ADORA Pro features advanced mechanical design with custom CAD components.</p>
+<p>ADORA Pro has been used by several universities in the World Humanoid Robot Games. I worked on the mechanical design of ADORA Pro, including custom CAD components.</p>
 
-<p><img src="/assets/img/adora_pro_1.jpg" alt="" /></p>
+<p><img src="/assets/img/adora_pro_2_2.png" alt="" /></p>
 
-<p><img src="/assets/img/adora_pro_1_1.jpg" alt="" /></p>
+<p><img src="/assets/img/adora_pro_customer_1.jpg" alt="" /></p>
 
 <p><img src="/assets/img/adora_pro_2.jpg" alt="" /></p>
 
-<p><img src="/assets/img/adora_pro_8.jpg" alt="" /></p>
+<p><img src="/assets/img/adora_3.jpg" alt="" /></p>
 
-<p><img src="/assets/img/adora_pro_customer_1.jpg" alt="" /></p>
+<p><img src="/assets/img/adora_pro_1.jpg" alt="" /></p>
+
+<p><img src="/assets/img/adora_pro_8.jpg" alt="" /></p>
 
 <h2 id="cad-design">CAD Design</h2>
 
@@ -90,7 +98,11 @@
 
 <p><img src="/assets/img/FRC3256_1.jpg" alt="FRC 3256 Team" /></p>
 
+<p><img src="/assets/img/FRC3256_2.jpg" alt="FRC 3256" /></p>
+
 <p><img src="/assets/img/FRC3256_3.jpg" alt="FRC 3256" /></p>
+
+<p><img src="/assets/img/FRC3256_4.jpg" alt="FRC 3256" /></p>
 
 <h2 id="role-and-responsibilities">Role and Responsibilities</h2>
 
