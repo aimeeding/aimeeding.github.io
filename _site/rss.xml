@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aimee Ding</title>
+    <description>个人的一个技术博客站点，主要用于记录个人在学习过程中遇到的技术问题及解决方法、技术实验，以及一些比较有趣的事情。</description>
+    <link>http://localhost:4000//</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 30 Oct 2025 07:57:08 -0700</pubDate>
+    <lastBuildDate>Thu, 30 Oct 2025 07:57:08 -0700</lastBuildDate>
+    <generator>Jekyll v4.3.3</generator>
+    
+      <item>
+        <title>ADORA Series Robot Design</title>
+        <description>&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;The ADORA series represents a family of mobile robots designed for competitive robotics environments. This project focused on mechanical design and development of three variants: ADORA MAX, ADORA Pro, and ADORA nano.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/adora_all.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;adora-nano&quot;&gt;ADORA nano&lt;/h2&gt;
+
+&lt;p&gt;The ADORA nano is a mobile robot based on the HuggingFace LeRobot arm platform. This robot was independently designed and developed to serve as a key platform for the GoSIM hackathon.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/adora_nano_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/adora_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/adora_1_2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/adora_2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/adora_3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;adora-max&quot;&gt;ADORA MAX&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/adora_max_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;adora-pro&quot;&gt;ADORA Pro&lt;/h2&gt;
+
+&lt;p&gt;The ADORA Pro features advanced mechanical design with custom CAD components.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/adora_pro_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/adora_pro_1_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/adora_pro_2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/adora_pro_8.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/adora_pro_customer_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;cad-design&quot;&gt;CAD Design&lt;/h2&gt;
+
+&lt;p&gt;The design process involved detailed CAD work for custom components.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/adora_pro_cad_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/adora_pro_cad_2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/adora_pro_cad_3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/adora_pro_cad_4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/adora_pro_cad_5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/adora_pro_cad 6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/adora_pro_cad_7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;results&quot;&gt;Results&lt;/h2&gt;
+
+&lt;p&gt;The ADORA series successfully supported the GoSIM hackathon’s competitive challenges, demonstrating the effectiveness of the functional design approach across all three variants.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Oct 2025 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/tech/adora.html</link>
+        <guid isPermaLink="true">http://localhost:4000/tech/adora.html</guid>
+        
+        <category>CAD</category>
+        
+        <category>Robotics</category>
+        
+        
+        <category>tech</category>
+        
+      </item>
+    
+      <item>
+        <title>Universal Manipulation Interface</title>
+        <description>&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;This project began as research project for automated the recycle process in warehouse. The Universal Manipulation Interface (UMI) is Stanford’s open-source project focused on enabling robot teaching in real-world environments without requiring specialized robotic hardware.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/umi_0.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/umi_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;implementation&quot;&gt;Implementation&lt;/h2&gt;
+
+&lt;p&gt;The implementation involved structural optimization and assembly of the UR5 robotic arm, with custom mechanical design for gripper components.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/umi_2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/umi_3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/umi_4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;assembly-and-testing&quot;&gt;Assembly and Testing&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/umi_5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/umi_6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/umi_7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;results&quot;&gt;Results&lt;/h2&gt;
+
+&lt;p&gt;The UMI implementation successfully demonstrated improved reliability through refined mechanical design, addressing jamming issues and enhancing overall system performance.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Sep 2024 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/tech/umi-part1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/tech/umi-part1.html</guid>
+        
+        <category>CAD</category>
+        
+        <category>Mechanical Design</category>
+        
+        
+        <category>tech</category>
+        
+      </item>
+    
+      <item>
+        <title>FRC 3256 - President</title>
+        <description>&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;FRC 3256 is a FIRST Robotics Competition team where I served as President, responsible for the design and construction of competition robots.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/FRC3256_1.jpg&quot; alt=&quot;FRC 3256 Team&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/FRC3256_3.jpg&quot; alt=&quot;FRC 3256&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;role-and-responsibilities&quot;&gt;Role and Responsibilities&lt;/h2&gt;
+
+&lt;p&gt;As President, my responsibilities included:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Leading the mechanical design team&lt;/li&gt;
+  &lt;li&gt;CAD modeling and prototyping&lt;/li&gt;
+  &lt;li&gt;Coordinating with electrical and programming teams&lt;/li&gt;
+  &lt;li&gt;Ensuring robot meets competition requirements&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;achievements&quot;&gt;Achievements&lt;/h2&gt;
+
+&lt;p&gt;Through my role as President, the team successfully competed in regional and district competitions, showcasing innovative mechanical designs and effective team collaboration.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 02 Sep 2024 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/tech/frc-3256.html</link>
+        <guid isPermaLink="true">http://localhost:4000/tech/frc-3256.html</guid>
+        
+        <category>Robotics</category>
+        
+        <category>FRC</category>
+        
+        
+        <category>tech</category>
+        
+      </item>
+    
+      <item>
+        <title>FTC 11311 Team Paragon</title>
+        <description>&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;FTC 11311 Team Paragon is a FIRST Tech Challenge competition team focused on designing, building, and programming robots to compete in annual challenges.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/FTC11311.png&quot; alt=&quot;FTC 11311 Team&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;team-experience&quot;&gt;Team Experience&lt;/h2&gt;
+
+&lt;p&gt;As a member of FTC 11311 Team Paragon, I gained hands-on experience in mechanical design, robot assembly, and competition strategy.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/gary-ftc11311-2019-3.jpg&quot; alt=&quot;FTC Competition&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;achievements&quot;&gt;Achievements&lt;/h2&gt;
+
+&lt;p&gt;The team participated in various regional and state competitions, developing skills in:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mechanical design and CAD&lt;/li&gt;
+  &lt;li&gt;Robot assembly and testing&lt;/li&gt;
+  &lt;li&gt;Team collaboration&lt;/li&gt;
+  &lt;li&gt;Competition strategy&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sun, 01 Sep 2024 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/tech/ftc-11311.html</link>
+        <guid isPermaLink="true">http://localhost:4000/tech/ftc-11311.html</guid>
+        
+        <category>Robotics</category>
+        
+        <category>FTC</category>
+        
+        
+        <category>tech</category>
+        
+      </item>
+    
+      <item>
+        <title>LeRobot</title>
+        <description>&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;This project began as research project for automated the recycle process in warehouse. Hugging Face’s LeRobot project is an open source project on machine learning models for real-world robotics, especially within domains like imitation and reinforcement learning. It is a wrapper on top of Stanford paper ALOHA. Stanford ALOHA refers to a series of robotics systems, with the primary goal of creating low-cost, open-source hardware for robotics research. ALOHA initially started as a bimanual teleoperation system but has since evolved into Mobile ALOHA, which combines mobility with advanced whole-body manipulation capabilities. Mobile ALOHA is designed to perform complex real-world tasks like cooking, cleaning, and navigating environments, making it useful for research in areas such as imitation learning and human-robot interaction.&lt;/p&gt;
+
+&lt;p&gt;The deliverable from this project is to pick and place recycled phones.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/lerobot_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/lerobot_2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/lerobot_3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;implementation&quot;&gt;Implementation&lt;/h2&gt;
+
+&lt;p&gt;The robot arms are built based on koch 1.1 version.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/lerobot_4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/lerobot_5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;testing&quot;&gt;Testing&lt;/h2&gt;
+
+&lt;p&gt;After the data collection and training the final result is shown below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/lerobot_test1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 15 Jun 2024 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/tech/lerobot.html</link>
+        <guid isPermaLink="true">http://localhost:4000/tech/lerobot.html</guid>
+        
+        <category>Robotics</category>
+        
+        <category>AI</category>
+        
+        
+        <category>tech</category>
+        
+      </item>
+    
+  </channel>
+</rss>

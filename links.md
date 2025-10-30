@@ -1,0 +1,7 @@
+---
+layout: links
+home-title: Aimee Ding
+description: 
+cover: '/assets/img/garyding_bk5.jpg'
+---
+

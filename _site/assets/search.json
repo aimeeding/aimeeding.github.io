@@ -1,0 +1,33 @@
+[
+  
+    {
+      "title"    : "ADORA Series Robot Design",
+      "tags"     : "CAD Robotics",
+      "url"      : "/tech/adora.html"
+    } ,
+  
+    {
+      "title"    : "Universal Manipulation Interface",
+      "tags"     : "CAD Mechanical Design",
+      "url"      : "/tech/umi-part1.html"
+    } ,
+  
+    {
+      "title"    : "FRC 3256 - President",
+      "tags"     : "Robotics FRC",
+      "url"      : "/tech/frc-3256.html"
+    } ,
+  
+    {
+      "title"    : "FTC 11311 Team Paragon",
+      "tags"     : "Robotics FTC",
+      "url"      : "/tech/ftc-11311.html"
+    } ,
+  
+    {
+      "title"    : "LeRobot",
+      "tags"     : "Robotics AI",
+      "url"      : "/tech/lerobot.html"
+    } 
+  
+]
